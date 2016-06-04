@@ -25,24 +25,45 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+	background-image:url("http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/02/galaxy-wallpaper-4.jpg");
 }
 
-.about-section {
+.game-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #eee;
 }
 
-.services-section {
+.movies-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
 
-.contact-section {
+.music-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.members-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.contacts-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
