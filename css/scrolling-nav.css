@@ -26,34 +26,38 @@ html {
     padding-top: 150px;
     text-align: center;
 	background-image:url("http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/02/galaxy-wallpaper-4.jpg");
+	background-position: center top;
 }
 
 .game-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background-image:url("http://www.wallpaperno.com/thumbnails/detail/20121026/pokemon%20video%20games%20gameboy%20keep%20calm%20and%201920x1200%20wallpaper_www.wallpaperno.com_4.jpg");
+	background-position: center center;
 }
 
 .movies-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image:url("http://static1.squarespace.com/static/54aa8545e4b0b365f7770c20/t/55fb485ce4b01b7f0274552c/1442531422632/blue-vector-wallpaper-free-desktop-background1.jpg?format=1500w");
+	background-position: center center;
 }
 
 .music-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background-image:url("https://wallpaperscraft.com/image/minimalism_sky_clouds_sun_mountains_lake_landscape_95458_602x339.jpg");
+	background-position: center center;
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
 
 .members-section {
@@ -67,5 +71,5 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: black;
 }
