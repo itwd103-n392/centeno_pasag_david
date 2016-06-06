@@ -25,6 +25,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
+	background-size: 100% auto;
 	background-image:url("http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/02/galaxy-wallpaper-4.jpg");
 	background-position: center top;
 }
@@ -33,7 +34,8 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image:url("http://www.wallpaperno.com/thumbnails/detail/20121026/pokemon%20video%20games%20gameboy%20keep%20calm%20and%201920x1200%20wallpaper_www.wallpaperno.com_4.jpg");
+	background-size: 100% auto;
+    background-image:url("http://2.bp.blogspot.com/-h7kWxWwDgeE/UUruYXXqJ9I/AAAAAAAAFpY/w0gl6YlWVJc/s1600/video-games-pac-man-retro-games-wallpaper.jpg");
 	background-position: center center;
 }
 
@@ -41,7 +43,8 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image:url("http://static1.squarespace.com/static/54aa8545e4b0b365f7770c20/t/55fb485ce4b01b7f0274552c/1442531422632/blue-vector-wallpaper-free-desktop-background1.jpg?format=1500w");
+	background-size: 100% auto;
+    background-image:url("http://www.htbackdrops.org/v2/albums/userpics/11739/orig_xbmcvids2.jpg");
 	background-position: center center;
 }
 
@@ -49,7 +52,8 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image:url("https://wallpaperscraft.com/image/minimalism_sky_clouds_sun_mountains_lake_landscape_95458_602x339.jpg");
+	background-size: 100% auto;
+    background-image:url("http://science-all.com/images/wallpapers/music-wallpaper/music-wallpaper-8.jpg");
 	background-position: center center;
 }
 
@@ -57,7 +61,9 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background-size: 100% auto;
+    background-image:url("http://onehdwallpaper.com/wp-content/uploads/2015/07/Simple-Quotes-Wallpaper-HD.jpg");
+	background-position: center center;
 }
 
 .members-section {

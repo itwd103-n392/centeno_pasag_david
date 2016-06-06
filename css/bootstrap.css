@@ -705,6 +705,7 @@ th {
 .glyphicon-fullscreen:before {
   content: "\e140";
 }
+
 .glyphicon-dashboard:before {
   content: "\e141";
 }
